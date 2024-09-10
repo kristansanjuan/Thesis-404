@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.30)  10 SEP 2024 13:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.30)  10 SEP 2024 15:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -537,28 +537,30 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 (Chapter1-Background_of_the_Study.tex
 
-LaTeX Warning: Citation 'Statista' on page 1 undefined on input line 4.
+LaTeX Warning: Citation 'statista2022waste' on page 1 undefined on input line 5
+.
 
 
-LaTeX Warning: Citation '' on page 1 undefined on input line 4.
+LaTeX Warning: Citation '' on page 1 undefined on input line 5.
 
 
-LaTeX Warning: Citation 'educsci13010094' on page 1 undefined on input line 8.
-
-
-LaTeX Warning: Citation '' on page 1 undefined on input line 8.
-
-
-LaTeX Warning: Citation 'AhmadFaudzi2023' on page 1 undefined on input line 8.
-
-
-LaTeX Warning: Citation '' on page 1 undefined on input line 8.
-
-) (Chapter1-Statement_of_the_Problem.tex
 
 [1
 
 {C:/Users/nagat/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
+LaTeX Warning: Citation 'Malik2022' on page 2 undefined on input line 9.
+
+
+LaTeX Warning: Citation '' on page 2 undefined on input line 9.
+
+
+LaTeX Warning: Citation 'AhmadFaudzi2023' on page 2 undefined on input line 9.
+
+
+LaTeX Warning: Citation '' on page 2 undefined on input line 9.
+
+) (Chapter1-Statement_of_the_Problem.tex
 
 [2]) (Chapter1-Objective_of_the-Study.tex
 
@@ -570,7 +572,10 @@ LaTeX Warning: Citation '' on page 1 undefined on input line 8.
 
 [6])
 
-LaTeX Warning: Empty bibliography on input line 25.
+LaTeX Warning: Citation 'recycleguide2024' undefined on input line 25.
+
+
+LaTeX Warning: Empty bibliography on input line 26.
 
 
 
@@ -596,11 +601,11 @@ xml'.
 Here is how much of TeX's memory you used:
  12138 strings out of 473899
  234867 string characters out of 5726500
- 1934960 words of memory out of 5000000
+ 1933960 words of memory out of 5000000
  34904 multiletter control sequences out of 15000+600000
  565017 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,6n,84p,1274b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 71i,6n,84p,1227b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\nagat\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk> <C:\Users\nagat\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\ecbx1440.pk> <C:\Users\nagat\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
@@ -609,10 +614,10 @@ pen/ec/dpi600\ecrm1200.pk> <C:\Users\nagat\AppData\Local\MiKTeX\fonts/pk/ljfour
 /jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\nagat\AppData\Local\MiKTeX\fonts/pk/
 ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\nagat\AppData\Local\MiKTeX\fon
 ts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk>
-Output written on "The Problem and Its Background.pdf" (7 pages, 101608 bytes).
+Output written on "The Problem and Its Background.pdf" (7 pages, 101670 bytes).
 
 PDF statistics:
- 284 PDF objects out of 1000 (max. 8388607)
+ 283 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
